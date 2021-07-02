@@ -4,11 +4,16 @@ authors = ["李浩 <2213973739@qq.com> and contributors"]
 version = "0.1.0"
 
 [deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 ExcelFiles = "89b67f3b-d1aa-5f6f-9ca4-282e8d98620d"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
 IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
 JuliaZH = "652e05fd-ed22-5b6c-bf99-44e63a676e5f"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
 Queryverse = "612083be-0b0f-5412-89c1-4e7c75506a58"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
