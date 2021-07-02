@@ -9,6 +9,7 @@ ExcelFiles = "89b67f3b-d1aa-5f6f-9ca4-282e8d98620d"
 IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
 JuliaZH = "652e05fd-ed22-5b6c-bf99-44e63a676e5f"
 Queryverse = "612083be-0b0f-5412-89c1-4e7c75506a58"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
 [compat]
 julia = "1"

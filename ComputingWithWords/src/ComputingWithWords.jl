@@ -1,6 +1,6 @@
 module ComputingWithWords
 
-using IntervalArithmetic:  Interval
+using IntervalArithmetic: Interval
 using ExcelFiles, DataFrames
 
 # 数据读取
