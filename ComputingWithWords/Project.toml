@@ -1,0 +1,20 @@
+name = "ComputingWithWords"
+uuid = "35b404b8-bb2f-448a-a17e-0b5cbda0e845"
+authors = ["李浩 <2213973739@qq.com> and contributors"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+ExcelFiles = "89b67f3b-d1aa-5f6f-9ca4-282e8d98620d"
+IntervalArithmetic = "d1acc4aa-44c8-5952-acd4-ba5d80a2a253"
+JuliaZH = "652e05fd-ed22-5b6c-bf99-44e63a676e5f"
+Queryverse = "612083be-0b0f-5412-89c1-4e7c75506a58"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
